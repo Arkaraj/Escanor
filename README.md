@@ -1,6 +1,6 @@
 # Escanor
 
-Server For a Real Time Chat Application with Node.js, Express.js Typescript,Socket.io, With Storage in Redis.
+Server For a Real Time Chat Application with Node.js, Express.js Typescript,Socket.io, With Storage in Redis in Docker container.
 
 ## Tech Stack
 
@@ -9,5 +9,6 @@ Server For a Real Time Chat Application with Node.js, Express.js Typescript,Sock
 - Express.js
 - Socket.io
 - Redis
+- Docker Container
 
 ## MVC
